@@ -1,4 +1,4 @@
- public class PositiveNegative {
+ class PositiveNegative {
 
     public static void main(String[] args) {
 
